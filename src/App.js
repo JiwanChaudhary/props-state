@@ -1,5 +1,7 @@
+import New from './New';
+
 function App() {
-  return <div>Props and State</div>;
+  return <New />;
 }
 
 export default App;
